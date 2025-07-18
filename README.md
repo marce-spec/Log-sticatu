@@ -1,6 +1,22 @@
+# Nombre del Proyecto
 
+Una breve descripción de qué hace tu app.
+
+## Características
+
+- 🚚 Entrega de mercancías
+- 🧾 Integración de sistemas de pago
+- 🌐 Hosting escalable
+- 📦 Gestión de rutas inteligentes
+
+## Instalación
+
+```bash
+git clone https://github.com/tuusuario/tu-proyecto.git
+cd tu-proyecto
+npm install
 <!DOCTYPE html>
-<html lang="es">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
